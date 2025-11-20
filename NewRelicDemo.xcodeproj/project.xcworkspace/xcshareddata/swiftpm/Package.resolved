@@ -1,0 +1,15 @@
+{
+  "originHash" : "f36db4f5918d47a2752ac2294796b44397471e1f8167c33d834dd45c536f587e",
+  "pins" : [
+    {
+      "identity" : "newrelic-ios-agent-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/newrelic/newrelic-ios-agent-spm",
+      "state" : {
+        "revision" : "9d5636c2f9529ec31973aab709ba1cd934e42730",
+        "version" : "7.5.5"
+      }
+    }
+  ],
+  "version" : 3
+}
